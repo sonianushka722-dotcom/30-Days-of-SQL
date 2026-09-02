@@ -60,13 +60,13 @@ Primary key in table is a key that uniquely identify each column and record
 - TIME = '09:30:00'
 
 ### Types of SQL Commands
-> DDL - Data definition language
+#### DDL - Data definition language
        -CREATE 
        -ALTER
        -DROP
-> DML - Data Manipulation language
+#### DML - Data Manipulation language
       - INSERT
       - UPDATE
       - DELETE
-> DQL - Data Query language
+#### DQL - Data Query language
       - SLECT
