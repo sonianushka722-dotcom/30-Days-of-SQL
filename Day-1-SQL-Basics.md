@@ -62,7 +62,7 @@ Primary key in table is a key that uniquely identify each column and record
 ### Types of SQL Commands
 
 #### DDL - Data definition language
-       -CREATE 
+       -'CREATE 
        -ALTER
        -DROP
 #### DML - Data Manipulation language
@@ -70,4 +70,4 @@ Primary key in table is a key that uniquely identify each column and record
       - UPDATE
       - DELETE
 #### DQL - Data Query language
-      - SLECT
+      - SELECT
