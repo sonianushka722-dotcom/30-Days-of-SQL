@@ -50,24 +50,24 @@ Primary key in table is a key that uniquely identify each column and record
 
 ### Datatypes in SQL
 #### Numeric - 
-- INT = 1,2,3
-- DECIMAL = 3.14, 100.50
+- `INT` = 1,2,3
+- `DECIMAL` = 3.14, 100.50
 #### Text -
-- CHAR = 'MARIAH' (usually have limit)
-- VARCHAR = 'E5A6'
+- `CHAR` = 'MARIAH' (usually have limit)
+- `VARCHAR` = 'E5A6'
 #### Date & Time -
-- DATE = '2026-10-30'
-- TIME = '09:30:00'
+- `DATE` = '2026-10-30'
+- `TIME` = '09:30:00'
 
 ### Types of SQL Commands
 
 #### DDL - Data definition language
-       -'CREATE 
-       -ALTER
-       -DROP
+       - CREATE
+       - ALTER
+       - DROP
 #### DML - Data Manipulation language
-      - INSERT
-      - UPDATE
-      - DELETE
+      -  INSERT
+      -  UPDATE
+      -  DELETE
 #### DQL - Data Query language
-      - SELECT
+      -  SELECT
